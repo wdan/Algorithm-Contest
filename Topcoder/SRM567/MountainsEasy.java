@@ -6,7 +6,7 @@ import java.math.*;
 
 public class MountainsEasy
 {
-	    public boolean[][] map;
+    public boolean[][] map;
     public boolean[][] used;
     public int lenW,lenH;
     public int countPlacements(String[] picture, int N)
